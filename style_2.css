@@ -1,0 +1,24 @@
+.page {
+    margin-left: 33%;
+    margin-right: 33%;
+    background-color:rgba(0,0,0,0.7);
+    
+}
+
+body{
+    background-image: url("lol_back.jpg");
+    background-position-x: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-size: x-large;   
+    color: whitesmoke;
+}
+p {
+    
+    opacity: 2;
+}
+a{
+    color :white
+}
